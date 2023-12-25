@@ -135,6 +135,10 @@ body {
         width: auto;
     }
 
+    .apresentacao__links__subtitulo {
+        font-size: 1.2rem;
+    }
+
     .apresentacao__links__navegacao {
         font-size: 1.2rem;
     }
